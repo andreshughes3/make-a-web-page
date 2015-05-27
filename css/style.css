@@ -1,0 +1,50 @@
+body {
+  padding: 20px 10px;
+	font-family: Helvetica;
+	max-width: 2000px;
+	margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+.chapter1 {
+  background-color: #FF7F50 ;
+	border-radius: 20px;
+	color: black;
+	padding: 10px;
+	margin: 10px auto;
+}
+.chapter2 {
+  background-color: #98FB98  ;
+	border-radius: 20px;
+	color: black;
+	padding: 10px;
+	margin: 10px auto;
+}
+.chapter3{
+  background-color: #00BFFF  ;
+	border-radius: 20px;
+	color: black;
+	padding: 10px;
+	margin: 10px auto;
+}
+.chapter4 {
+  background-color: #FFC0CB  ;
+	border-radius: 20px;
+	color: black;
+	padding: 10px;
+	margin: 10px auto;
+}
+.concepts {
+	background-color: #E0FFFF;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+.code1 {   
+    padding-left:  16px;
+    padding-right: 16px;
+}
